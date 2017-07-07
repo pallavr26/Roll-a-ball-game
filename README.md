@@ -11,7 +11,7 @@ How to use prefabs and what they can do, how to use a family of game objects
 Difference between static and dynamic collider and rigid body 
 
 
-How to set objects in rotation
-
+How to set objects in rotation;
 Displaying text and adding text UI to script and hierarchy
+
 Building the game 
