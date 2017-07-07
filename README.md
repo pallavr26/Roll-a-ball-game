@@ -12,5 +12,6 @@ Difference between static and dynamic collider and rigid body
 
 
 How to set objects in rotation
+
 Displaying text and adding text UI to script and hierarchy
 Building the game 
